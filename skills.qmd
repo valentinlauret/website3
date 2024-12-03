@@ -1,0 +1,43 @@
+---
+title: "Background"
+subtitle: "You can have a look at [**my CV**](doc/CV.pdf)"
+title-block-banner: img/montcalm2.jpg
+title-block-banner-color: "#F1FAEE"
+enableEmoji: true
+lightbox: true
+page-navigation: false
+linkcolor: "#E63946"
+margin-left: 2pt
+margin-right: 2pt
+toc: false
+body-footer: |
+  coucou
+  ![chalu](img/chalu.jpg)
+---
+
+## **CURRENT PROJECTS**
+
+During my *Juan de la Cierva* postdoctoral position, I mainly investigate two main research questions:
+
+  * Understanding stakeholders perceptions of wildlife adaptive management.
+  * Studying the role of statistical models in the construction of reliable ecological knowledge.
+
+Meanwhile, I also participate in side-projects, for example:
+
+  * Investigating short-eared owl (*Asio flammeus*) migratory behaviour, work with [François Mougeot](https://www.irec.es/en/personal/detalle/mougeot-francois/).
+  * Investigating hunter’s preferences for the management of the Egyptian mongoose expansion in Spain.
+
+  
+## **PAST PROJECTS**
+
+  * As a previous postdoc at the [CEFE](https://www.cefe.cnrs.fr/en/) in Montpellier, I worked with [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard) as a member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/). I was onboard the [Migralion project](https://www.france-energies-marines.org/en/projects/migralion/) with France Energies Marines, an ambituous research program funded by the [French Biodiversity Office](https://ofb.gouv.fr/en) aiming at studying birds migration in the Gulf of Lion (Northwestern Mediterranean Sea). I was in charge of developing integrated models combining telemetry, counts, and radar data.
+  * Understanding the role of ecological monitoring in the functioning of Marine Protected Areas of the French Mediterranean Sea (more details [here](dolphin.qmd))
+  * Developing integrated models to combine distance sampling and Spatial-Capture Recapture data from bottlenose dolphin (*Tursiops truncatus*).
+  * Understanding conservation conflicts associated with rodent outbreaks in farmland areas (more [here](rodent.qmd)).
+  * Mapping wolf recolonization in France accounting for species misidentification and including uncertain data (more details [here](wolf.qmd)).
+
+## **TEACHING EXPERIENCE**
+
+  * Around 200h of teaching in ecology, statistics, and wildlife management at the University of Montpellier, France.
+  * Workshop about Introduction to Bayesian statistics for ecologists in IREC-CSIC, Spain.
+

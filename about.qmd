@@ -1,0 +1,46 @@
+---
+title: | 
+ <font color="#1D3557" size=30>**Valentin Lauret**</font>
+image: img/profdof.jpg
+lightbox: true
+mainfont: Helvetica
+fontcolor: "#457b9d"
+fontsize: 1em
+margin-left: 2pt
+margin-right: 2pt
+body-footer: "Coucou"
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 25em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Bluesky
+      href: https://bsky.app/profile/valentinlauret.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/valentinlauret
+    - icon: newspaper
+      text: Scholar
+      href: https://scholar.google.com/citations?user=hbi_zlMAAAAJ&hl=en
+    - icon: envelope
+      text: Mail
+      href: mailto:valentin.lauret@uclm.es
+    - text: "Languages: 🇫🇷🇬🇧🇪🇸"
+---
+
+:::{#hero-heading} 
+:::
+
+<center>
+I’m a *Juan de la Cierva* postdoc at the Institute for Game and Wildlife Research ([IREC](https://www.irec.es/en/)) working with [Beatriz Arroyo](https://www.irec.es/en/personal/detalle/arroyo-lopez-beatriz/) and [Miguel Delibes-Mateos](https://www.iesa.csic.es/directorio/miguel-delibes-mateos/). I'm ongoing various projects that aimed at investigating the human dimensions of social conflicts associated with wildlife. In particular, I'm interested in the construction of ecological knowledge and its legitimacy for biodiversity decision-making, adopting a reflexive posture about development and use of statistical models.
+
+Overall, my research focuses on applied biodiversity conservation, with a particular interest in interdisciplinary approaches using statistical ecology and social sciences to work with stakeholders and to inform public policies.
+
+You can have a look at my [CV](doc/CV.pdf)
+
+Please, do not hesitate to [contact me](mailto:valentin.lauret@uclm.es) for any question or information ! 📮
+
+All photos credits are mine</center>
+

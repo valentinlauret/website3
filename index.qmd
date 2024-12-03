@@ -1,0 +1,56 @@
+---
+title: ""
+page-footer: ""
+navbar: false
+page-navigation: false
+sidebar: false
+toc: false
+linkcolor: "#E63946"
+---
+
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+$$
+~~
+$$
+<center>
+# <font color="#F1FAEE" size=30>**Valentin Lauret**</font>
+
+<font color="#F1FAEE" size=30>**[Enter](about.qmd)**</font>
+</center>
+
+<style>
+  body {
+  background-image: url("img/gypa.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
+
+
+
+

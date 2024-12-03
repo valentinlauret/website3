@@ -1,0 +1,26 @@
+---
+title: "Mapping wolf recolonization with uncertain data"
+subtitle: "Jan-Jun 2017 MSc thesis"
+title-block-banner: img/wolf1.jpg
+title-block-banner-color: "#F1FAEE"
+page-navigation: false
+linkcolor: "#E63946"
+margin-left: 2pt
+margin-right: 2pt
+toc: false
+---
+
+<center>
+![](img/featured.png){width=60%}</center>
+
+## Accounting for misidentifications in dynamic occupancy models.
+
+For my master degree, I did an internship with [Julie Louvrier](https://twitter.com/LouvrierJulie) and [Olivier Gimenez](https://oliviergimenez.github.io/) at the [CEFE - CNRS](https://www.cefe.cnrs.fr/en/), in Montpellier, France.  
+
+This project was a part of Julie's PhD that aimed at mapping large carnivores distribution. Wolf monitoring in France is based on opportunistic data. Then, an important proportion of collected data are classified as "uncertain". Uncertain data can be false-positive detections where wolf are misidentified. We extended the dynamic occupancy model of [Julie's paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.02874), to account for uncertain data in the estimation of wolf recolonization.    
+
+![Extended dynamic occupancy model to account for species misidentification](img/hmm.png)
+
+See details about this project reading my [Master degree report](doc/M2.pdf) To have more details, do not hesitate to contact me directly.
+
+{{< figure src="hmm.png" title="Extended dynamic occupancy model accouting for misidentification" >}}

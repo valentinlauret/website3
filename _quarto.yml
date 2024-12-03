@@ -1,0 +1,36 @@
+project:
+  type: website
+  
+execute:
+    freeze: auto
+
+website:
+  title: "Valentin Lauret"
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/valentinlauret 
+      - icon: twitter
+        href: https://twitter.com/valentinlauret
+    title: "Valentin Lauret"
+    background: "#1d3557"
+    foreground: "#F1FAEE"
+    search: true
+    left:
+      - href: about.qmd
+        text: Home
+      - skills.qmd
+      - publications.qmd
+
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+
+
+
+
