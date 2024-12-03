@@ -1,7 +1,5 @@
 ---
-title: | 
- <font color="#1D3557" size=30>**Valentin Lauret**</font>
-image: img/profdof.JPG
+title: ""
 lightbox: true
 mainfont: Helvetica
 fontcolor: "#457b9d"
@@ -29,6 +27,12 @@ about:
       href: mailto:valentin.lauret@uclm.es
     - text: "Languages: 🇫🇷🇬🇧🇪🇸"
 ---
+
+<center>
+![](img/profdof.jpg){width=60%}\
+
+<font color="#1D3557" size=30>**Valentin Lauret**</font>
+</center>
 
 :::{#hero-heading} 
 :::
