@@ -1,7 +1,7 @@
 ---
 title: | 
  <font color="#1D3557" size=30>**Valentin Lauret**</font>
-image: img/profdof.jpg
+image: img/profdof.JPG
 lightbox: true
 mainfont: Helvetica
 fontcolor: "#457b9d"
