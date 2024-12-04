@@ -29,7 +29,7 @@ about:
 ---
 
 <center>
-![](img/profdof.jpg){width=60%}\
+![](img/lozere.jpg){width=60%}
 
 <font color="#1D3557" size=30>**Valentin Lauret**</font>
 </center>
