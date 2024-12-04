@@ -3,6 +3,7 @@ title: "Publications"
 subtitle: "You can check my [Google Scholar](https://scholar.google.com/citations?user=hbi_zlMAAAAJ&hl=en) profile."
 title-block-banner: "#F1FAEE"
 title-block-banner-color: "#1D3557"
+linkcolor: "#E63946"
 enableEmoji: true
 lightbox: true
 page-navigation: true
